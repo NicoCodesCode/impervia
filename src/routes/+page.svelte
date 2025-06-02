@@ -27,7 +27,7 @@
 
 <!-- Humidity threats -->
 <section
-	class="bg-impervia-dark-blue flex min-h-[calc(100vh-4rem)] flex-wrap-reverse items-center justify-evenly px-10 pt-16 text-center sm:px-16 md:text-left lg:px-32 lg:pt-0"
+	class="bg-impervia-dark-blue flex min-h-[calc(100vh-4rem)] flex-wrap-reverse items-center justify-evenly px-10 py-16 text-center sm:px-16 md:text-left lg:px-32"
 >
 	<img
 		class="h-40 rounded-xl shadow-lg/40 sm:h-64 lg:h-72"
@@ -52,7 +52,7 @@
 
 <!-- Impervia description -->
 <section
-	class="bg-impervia-darker-blue flex min-h-[calc(100vh-4rem)] flex-wrap justify-evenly px-10 pt-16 text-center sm:items-center sm:px-16 md:text-left lg:px-32 lg:pt-0"
+	class="bg-impervia-darker-blue flex min-h-[calc(100vh-4rem)] flex-wrap justify-evenly px-10 py-16 text-center sm:items-center sm:px-16 md:text-left lg:px-32"
 >
 	<div class="font-poppins h-min max-w-sm text-white sm:max-w-xl">
 		<h1 class="mb-4 text-3xl/snug font-extrabold sm:text-4xl/tight md:text-5xl/tight">
