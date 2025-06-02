@@ -28,13 +28,13 @@
 		alt="Rain on roof"
 	/>
 	<div class="font-poppins h-min max-w-sm text-white sm:max-w-xl">
-		<h1 class="mb-4 text-3xl/snug font-extrabold sm:text-4xl/tight md:text-5xl/tight">
+		<h2 class="mb-4 text-3xl/snug font-extrabold sm:text-4xl/tight md:text-5xl/tight">
 			¿Por Qué La
 			<span class="text-impervia-blue">Humedad</span>
 			Es
 			<span class="text-impervia-yellow">Dañina</span>
 			?
-		</h1>
+		</h2>
 		<p>
 			La humedad se filtra lentamente en paredes, techos y cimientos, provocando con el tiempo la
 			aparición de moho, aumento de la temperatura, malos olores e incluso daños estructurales.
