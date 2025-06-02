@@ -1,5 +1,7 @@
 <script lang="ts">
+	// Components
 	import FeatureElement from '../components/FeatureElement.svelte';
+	import InstructionCard from '../components/InstructionCard.svelte';
 </script>
 
 <svelte:head>
@@ -76,4 +78,27 @@
 	<FeatureElement src="/icons/favorites.png" alt="Badge" text="Calidad Garantizada" />
 	<FeatureElement src="/icons/dollar.png" alt="Money" text="Costo Asequible" />
 	<FeatureElement src="/icons/earth.png" alt="Earth" text="Mejora Ecológica" />
+</section>
+
+<!-- Instructions section -->
+<section
+	class="bg-impervia-darker-blue flex h-min flex-wrap justify-evenly gap-12 px-10 py-16 text-center text-white sm:items-center sm:px-16 md:text-left lg:px-32"
+>
+	<h2 class="mb-4 text-3xl/snug font-extrabold sm:text-4xl/tight md:text-5xl/tight">
+		Instrucciones De <span class="text-impervia-yellow">Uso</span>
+	</h2>
+	<div>
+		<InstructionCard
+			title="1. Mézclalo"
+			text="Dentro de la cubeta, encontrarás botellas que contienen los componentes de la fórmula del impermeabilizante. Vierte todo el contenido en el cubo y mézclala bien con ayuda de cualquier herramienta. Déjalo reposar unos minutos."
+		/>
+		<InstructionCard
+			title="2. Aplícalo"
+			text="Una vez listo, aplica Impervia uniformemente usando una brocha o un rodillo sobre las superficies que desees proteger: paredes, techos o cualquier lugar donde la humedad amenace tu hogar."
+		/>
+		<InstructionCard
+			title="3. Despreocúpate"
+			text="Al secarse, Impervia forma una barrera resistente e invisible que bloquea la humedad y evita la formación de moho, las goteras y regula la temperatura del hogar."
+		/>
+	</div>
 </section>
