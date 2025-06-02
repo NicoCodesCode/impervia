@@ -7,6 +7,8 @@
 </svelte:head>
 
 <Header />
+
+<!-- Hero Section -->
 <section
 	class="bg-impervia-darker-blue flex min-h-[calc(100vh-4rem)] flex-wrap justify-evenly px-10 pt-16 text-center sm:items-center sm:px-16 md:text-left lg:px-32 lg:pt-0"
 >
@@ -19,6 +21,8 @@
 	</div>
 	<img class="h-72 sm:h-96" src="impervia-logo.png" alt="Impervia logo" />
 </section>
+
+<!-- Humidity threats -->
 <section
 	class="bg-impervia-dark-blue flex min-h-[calc(100vh-4rem)] flex-wrap-reverse items-center justify-evenly px-10 pt-16 text-center sm:px-16 md:text-left lg:px-32 lg:pt-0"
 >
