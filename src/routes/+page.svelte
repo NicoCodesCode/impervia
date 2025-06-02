@@ -1,5 +1,6 @@
 <script lang="ts">
 	import Header from '../components/Header.svelte';
+	import Hero from '../components/Hero.svelte';
 </script>
 
 <svelte:head>
@@ -7,3 +8,4 @@
 </svelte:head>
 
 <Header />
+<Hero />
