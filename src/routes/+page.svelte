@@ -11,7 +11,7 @@
 	<h2 class="text-2xl font-extrabold sm:text-3xl">IMPERVIA</h2>
 </header>
 
-<!-- Hero Section -->
+<!-- Hero section -->
 <section
 	class="bg-impervia-darker-blue flex min-h-[calc(100vh-4rem)] flex-wrap justify-evenly px-10 pt-16 text-center sm:items-center sm:px-16 md:text-left lg:px-32 lg:pt-0"
 >
@@ -25,7 +25,7 @@
 	<img class="h-72 sm:h-96" src="impervia-logo.png" alt="Impervia logo" />
 </section>
 
-<!-- Humidity threats -->
+<!-- Humidity threats section -->
 <section
 	class="bg-impervia-dark-blue flex min-h-[calc(100vh-4rem)] flex-wrap-reverse items-center justify-evenly px-10 py-16 text-center sm:px-16 md:text-left lg:px-32"
 >
@@ -50,7 +50,7 @@
 	</div>
 </section>
 
-<!-- Impervia description -->
+<!-- Impervia description section -->
 <section
 	class="bg-impervia-darker-blue flex min-h-[calc(100vh-4rem)] flex-wrap justify-evenly px-10 py-16 text-center sm:items-center sm:px-16 md:text-left lg:px-32"
 >
@@ -68,7 +68,7 @@
 	<img class="h-72 sm:h-96" src="/images/impervia-bucket.png" alt="Impervia logo" />
 </section>
 
-<!-- Features -->
+<!-- Features section -->
 <section
 	class="bg-impervia-dark-blue flex h-min flex-wrap items-center justify-evenly gap-8 px-10 py-16 text-center sm:px-16 md:text-left lg:px-32"
 >
