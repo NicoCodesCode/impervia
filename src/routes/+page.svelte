@@ -1,5 +1,6 @@
 <script lang="ts">
 	import Header from '../components/Header.svelte';
+	import FeatureElement from '../components/FeatureElement.svelte';
 </script>
 
 <svelte:head>
@@ -45,4 +46,22 @@
 			También crea el ambiente perfecto para alérgenos y bacterias dañinas.
 		</p>
 	</div>
+</section>
+
+<!-- Impervia description -->
+<section
+	class="bg-impervia-darker-blue flex min-h-[calc(100vh-4rem)] flex-wrap justify-evenly px-10 pt-16 text-center sm:items-center sm:px-16 md:text-left lg:px-32 lg:pt-0"
+>
+	<div class="font-poppins h-min max-w-sm text-white sm:max-w-xl">
+		<h1 class="mb-4 text-3xl/snug font-extrabold sm:text-4xl/tight md:text-5xl/tight">
+			IMPERVIA como <span class="text-impervia-yellow">solución</span>
+		</h1>
+		<p>
+			Impervia es un impermeabilizante aislante diseñado para proteger techos y paredes frente a la
+			humedad, filtraciones y radiación solar. Forma una barrera eficiente que reduce el impacto
+			térmico y ayuda a mantener una temperatura interior estable, mejorando el confort del hogar y
+			alargando la vida útil de las superficies tratadas.
+		</p>
+	</div>
+	<img class="h-72 sm:h-96" src="/images/impervia-bucket.png" alt="Impervia logo" />
 </section>
