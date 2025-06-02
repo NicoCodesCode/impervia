@@ -25,7 +25,7 @@
 	<img
 		class="h-40 rounded-xl shadow-lg/40 sm:h-64 lg:h-72"
 		src="/images/rain-432770_640.jpg"
-		alt="Impervia logo"
+		alt="Rain on roof"
 	/>
 	<div class="font-poppins h-min max-w-sm text-white sm:max-w-xl">
 		<h1 class="mb-4 text-3xl/snug font-extrabold sm:text-4xl/tight md:text-5xl/tight">
