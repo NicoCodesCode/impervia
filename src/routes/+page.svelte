@@ -56,7 +56,7 @@
 >
 	<div class="font-poppins h-min max-w-sm text-white sm:max-w-xl">
 		<h2 class="mb-4 text-3xl/snug font-extrabold sm:text-4xl/tight md:text-5xl/tight">
-			IMPERVIA como <span class="text-impervia-yellow">solución</span>
+			IMPERVIA Como <span class="text-impervia-yellow">Solución</span>
 		</h2>
 		<p>
 			Impervia es un impermeabilizante aislante diseñado para proteger techos y paredes frente a la
