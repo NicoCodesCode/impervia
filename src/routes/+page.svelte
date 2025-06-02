@@ -65,3 +65,13 @@
 	</div>
 	<img class="h-72 sm:h-96" src="/images/impervia-bucket.png" alt="Impervia logo" />
 </section>
+
+<!-- Features -->
+<section
+	class="bg-impervia-dark-blue flex h-min flex-wrap items-center justify-evenly gap-8 px-10 py-16 text-center sm:px-16 md:text-left lg:px-32"
+>
+	<FeatureElement src="/icons/shield.png" alt="Shield" text="Protección Duradera" />
+	<FeatureElement src="/icons/favorites.png" alt="Badge" text="Calidad Garantizada" />
+	<FeatureElement src="/icons/dollar.png" alt="Money" text="Costo Asequible" />
+	<FeatureElement src="/icons/earth.png" alt="Earth" text="Mejora Ecológica" />
+</section>
