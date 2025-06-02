@@ -7,7 +7,7 @@
 </svelte:head>
 
 <Header />
-<section
+<!-- <section
 	class="bg-impervia-darker-blue flex min-h-[calc(100vh-4rem)] items-center justify-evenly px-32"
 >
 	<div class="font-poppins max-w-xl text-white">
@@ -18,4 +18,4 @@
 		<p>Impervia mantiene la humedad fuera, para que tu hogar permanezca seco, limpio y fuerte.</p>
 	</div>
 	<img class="h-96" src="impervia-logo.png" alt="Impervia logo" />
-</section>
+</section> -->
