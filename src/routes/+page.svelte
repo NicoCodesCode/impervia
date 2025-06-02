@@ -55,9 +55,9 @@
 	class="bg-impervia-darker-blue flex min-h-[calc(100vh-4rem)] flex-wrap justify-evenly px-10 py-16 text-center sm:items-center sm:px-16 md:text-left lg:px-32"
 >
 	<div class="font-poppins h-min max-w-sm text-white sm:max-w-xl">
-		<h1 class="mb-4 text-3xl/snug font-extrabold sm:text-4xl/tight md:text-5xl/tight">
+		<h2 class="mb-4 text-3xl/snug font-extrabold sm:text-4xl/tight md:text-5xl/tight">
 			IMPERVIA como <span class="text-impervia-yellow">solución</span>
-		</h1>
+		</h2>
 		<p>
 			Impervia es un impermeabilizante aislante diseñado para proteger techos y paredes frente a la
 			humedad, filtraciones y radiación solar. Forma una barrera eficiente que reduce el impacto
@@ -77,8 +77,3 @@
 	<FeatureElement src="/icons/dollar.png" alt="Money" text="Costo Asequible" />
 	<FeatureElement src="/icons/earth.png" alt="Earth" text="Mejora Ecológica" />
 </section>
-
-<!-- Instructions section -->
-<section
-	class="bg-impervia-darker-blue flex min-h-[calc(100vh-4rem)] flex-wrap justify-evenly px-10 py-16 text-center sm:items-center sm:px-16 md:text-left lg:px-32"
-></section>
