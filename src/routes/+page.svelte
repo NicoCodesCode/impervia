@@ -77,3 +77,8 @@
 	<FeatureElement src="/icons/dollar.png" alt="Money" text="Costo Asequible" />
 	<FeatureElement src="/icons/earth.png" alt="Earth" text="Mejora Ecológica" />
 </section>
+
+<!-- Instructions section -->
+<section
+	class="bg-impervia-darker-blue flex min-h-[calc(100vh-4rem)] flex-wrap justify-evenly px-10 py-16 text-center sm:items-center sm:px-16 md:text-left lg:px-32"
+></section>
