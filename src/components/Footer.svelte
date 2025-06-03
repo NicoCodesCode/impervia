@@ -1,5 +1,5 @@
 <footer
-	class="bg-impervia-darker-blue grid h-min grid-cols-4 flex-wrap gap-12 px-10 py-8 text-white sm:px-16 md:text-left lg:px-32"
+	class="bg-impervia-darker-blue flex h-min flex-col gap-12 px-10 py-8 text-white sm:grid sm:grid-cols-4 sm:px-16 md:text-left lg:px-32"
 >
 	<div class="text-center text-sm">
 		<h3 class="mb-2 text-sm font-semibold sm:text-lg">IMPERVIA</h3>
@@ -7,12 +7,12 @@
 	</div>
 	<div class="text-center text-sm">
 		<h3 class="mb-2 text-center text-sm font-semibold sm:text-lg">CONTACTO</h3>
-		<div class="flex items-center gap-2">
+		<div class="flex items-center justify-center gap-2">
 			<img class="h-8" src="/icons/mail.png" alt="Email icon" />
 			<p>impervia6@gmail.com</p>
 		</div>
 		<a href="https://www.instagram.com/_impervia_/">
-			<div class="flex items-center gap-2">
+			<div class="flex items-center justify-center gap-2">
 				<img class="h-8" src="/icons/instagram.png" alt="Instagram icon" />
 				<p>@_impervia_</p>
 			</div>
