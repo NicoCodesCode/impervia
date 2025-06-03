@@ -102,3 +102,27 @@
 		/>
 	</div>
 </section>
+
+<!-- ONU SDG section -->
+<section
+	class="bg-impervia-dark-blue flex min-h-[calc(100vh-4rem)] flex-wrap justify-evenly px-10 py-16 text-center sm:items-center sm:px-16 md:text-left lg:px-32"
+>
+	<div class="font-poppins h-min max-w-sm text-white sm:max-w-xl">
+		<h2 class="mb-4 text-3xl/snug font-extrabold sm:text-4xl/tight md:text-5xl/tight">
+			<span class="text-impervia-yellow">Alineado</span>
+			Con Los ODS De La
+			<span class="text-impervia-blue">ONU</span>
+		</h2>
+		<p>
+			Impervia contribuye a un futuro más sostenible al mejorar la eficiencia energética y prevenir
+			problemas de salud causados por la humedad, apoyando así varios Objetivos de Desarrollo
+			Sostenible de la ONU.
+		</p>
+	</div>
+	<div class="mt-14 flex max-w-80 flex-wrap items-center justify-center gap-4 sm:max-w-96">
+		<img class="h-32 sm:h-44" src="/icons/S_SDG_Icons-01-09.jpg" alt="ONU SDG 9 Icon" />
+		<img class="h-32 sm:h-44" src="/icons/S_SDG_Icons-01-12.jpg" alt="ONU SDG 12 Icon" />
+		<img class="h-32 sm:h-44" src="/icons/S_SDG_Icons-01-11.jpg" alt="ONU SDG 11 Icon" />
+		<img class="h-32 sm:h-44" src="/icons/S_SDG_Icons-01-13.jpg" alt="ONU SDG 13 Icon" />
+	</div>
+</section>
