@@ -3,6 +3,7 @@
 	import Header from '../components/Header.svelte';
 	import FeatureElement from '../components/FeatureElement.svelte';
 	import InstructionCard from '../components/InstructionCard.svelte';
+	import Footer from '../components/Footer.svelte';
 </script>
 
 <svelte:head>
@@ -28,6 +29,7 @@
 <!-- Humidity threats section -->
 <section
 	class="bg-impervia-dark-blue flex min-h-[calc(100vh-4rem)] flex-wrap-reverse items-center justify-evenly px-10 py-16 text-center sm:px-16 md:text-left lg:px-32"
+	id="humidity-threats"
 >
 	<img
 		class="h-40 rounded-xl shadow-lg/40 sm:h-64 lg:h-72"
@@ -53,6 +55,7 @@
 <!-- Impervia description section -->
 <section
 	class="bg-impervia-darker-blue flex min-h-[calc(100vh-4rem)] flex-wrap justify-evenly px-10 py-16 text-center sm:items-center sm:px-16 md:text-left lg:px-32"
+	id="impervia-description"
 >
 	<div class="font-poppins h-min max-w-sm text-white sm:max-w-xl">
 		<h2 class="mb-4 text-3xl/snug font-extrabold sm:text-4xl/tight md:text-5xl/tight">
@@ -81,6 +84,7 @@
 <!-- Instructions section -->
 <section
 	class="bg-impervia-darker-blue flex h-min flex-wrap justify-evenly gap-12 px-10 py-16 text-center text-white sm:items-center sm:px-16 md:text-left lg:px-32"
+	id="instructions"
 >
 	<h2 class="mb-4 text-3xl/snug font-extrabold sm:text-4xl/tight md:text-5xl/tight">
 		Instrucciones De <span class="text-impervia-yellow">Uso</span>
@@ -104,6 +108,7 @@
 <!-- ONU SDG section -->
 <section
 	class="bg-impervia-dark-blue flex min-h-[calc(100vh-4rem)] flex-wrap justify-evenly px-10 py-16 text-center sm:items-center sm:px-16 md:text-left lg:px-32"
+	id="onu-ods"
 >
 	<div class="font-poppins h-min max-w-sm text-white sm:max-w-xl">
 		<h2 class="mb-4 text-3xl/snug font-extrabold sm:text-4xl/tight md:text-5xl/tight">
@@ -124,3 +129,5 @@
 		<img class="h-32 sm:h-44" src="/icons/S_SDG_Icons-01-13.jpg" alt="ONU SDG 13 Icon" />
 	</div>
 </section>
+
+<Footer />
