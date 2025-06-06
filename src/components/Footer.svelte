@@ -17,6 +17,10 @@
 				<p>@_impervia_</p>
 			</div>
 		</a>
+		<div class="flex items-center justify-center gap-2">
+			<img class="h-5 invert" src="/icons/phone-icon.png" alt="Telephone icon" />
+			<p>+52 899 315 3333</p>
+		</div>
 	</div>
 	<div class="text-center text-sm">
 		<h3 class="mb-2 text-center text-sm font-semibold sm:text-lg">IR A</h3>
