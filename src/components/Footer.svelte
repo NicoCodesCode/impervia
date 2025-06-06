@@ -37,6 +37,9 @@
 			<a href="/#onu-ods">
 				<p>Alineación con ODS de la ONU</p>
 			</a>
+			<a href="/calculator">
+				<p>Calculadora de cubetas</p>
+			</a>
 		</div>
 	</div>
 	<div>

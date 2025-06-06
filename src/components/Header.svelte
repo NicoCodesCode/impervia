@@ -11,7 +11,7 @@
 
 <!-- Phone navbar -->
 <nav
-	class="text-md bg-impervia-blue fixed {top} flex w-full flex-col items-center gap-4 pb-8 font-semibold text-white transition-all duration-300 md:hidden"
+	class="text-md bg-impervia-blue fixed {top} flex w-full flex-col items-center gap-4 pb-8 font-semibold text-white transition-all duration-300 lg:hidden"
 >
 	<a href="/#impervia-description">
 		<ul>¿Qué es Impervia?</ul>
@@ -20,7 +20,7 @@
 		<ul>Instrucciones de uso</ul>
 	</a>
 	<a href="/calculator">
-		<ul>Calculadora</ul>
+		<ul>Calculadora de cubetas</ul>
 	</a>
 </nav>
 
@@ -32,7 +32,7 @@
 	</a>
 
 	<!-- Desktop navbar -->
-	<nav class="text-md hidden flex-wrap justify-center gap-4 text-center font-semibold md:flex">
+	<nav class="text-md hidden flex-wrap justify-center gap-4 text-center font-semibold lg:flex">
 		<a href="/#impervia-description">
 			<ul>¿Qué es Impervia?</ul>
 		</a>
@@ -40,12 +40,12 @@
 			<ul>Instrucciones de uso</ul>
 		</a>
 		<a href="/calculator">
-			<ul>Calculadora</ul>
+			<ul>Calculadora de cubetas</ul>
 		</a>
 	</nav>
 
 	<!-- Hamburger button -->
-	<button onclick={showNavbar} class="hover:cursor-pointer md:hidden">
+	<button onclick={showNavbar} class="hover:cursor-pointer lg:hidden">
 		<img class="h-7 invert" src="/icons/hamburger.png" alt="Navbar menu icon" />
 	</button>
 </header>
