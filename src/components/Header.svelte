@@ -13,26 +13,34 @@
 <nav
 	class="text-md bg-impervia-blue fixed {top} flex w-full flex-col items-center gap-4 pb-8 font-semibold text-white transition-all duration-300 sm:hidden"
 >
-	<a href="#impervia-description">
+	<a href="/#impervia-description">
 		<ul>¿Qué es Impervia?</ul>
 	</a>
-	<a href="#instructions">
+	<a href="/#instructions">
 		<ul>Instrucciones de uso</ul>
+	</a>
+	<a href="/calculator">
+		<ul>Calculadora</ul>
 	</a>
 </nav>
 
 <header
 	class="bg-impervia-blue fixed flex min-h-16 w-screen flex-wrap items-center justify-between px-10 py-4 text-white sm:px-16 lg:px-32"
 >
-	<h2 class="text-2xl font-extrabold sm:text-3xl">IMPERVIA</h2>
+	<a href="/">
+		<h2 class="text-2xl font-extrabold sm:text-3xl">IMPERVIA</h2>
+	</a>
 
 	<!-- Desktop navbar -->
 	<nav class="text-md hidden flex-wrap justify-center gap-4 text-center font-semibold sm:flex">
-		<a href="#impervia-description">
+		<a href="/#impervia-description">
 			<ul>¿Qué es Impervia?</ul>
 		</a>
-		<a href="#instructions">
+		<a href="/#instructions">
 			<ul>Instrucciones de uso</ul>
+		</a>
+		<a href="/calculator">
+			<ul>Calculadora</ul>
 		</a>
 	</nav>
 

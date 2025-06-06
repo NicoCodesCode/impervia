@@ -25,16 +25,16 @@
 	<div class="text-center text-sm">
 		<h3 class="mb-2 text-center text-sm font-semibold sm:text-lg">IR A</h3>
 		<div class="flex flex-col gap-4">
-			<a href="#humidity-threats">
+			<a href="/#humidity-threats">
 				<p>¿Por qué la humedad es dañina?</p>
 			</a>
-			<a href="#impervia-description">
+			<a href="/#impervia-description">
 				<p>Impervia como solución</p>
 			</a>
-			<a href="#instructions">
+			<a href="/#instructions">
 				<p>Instrucciones de uso</p>
 			</a>
-			<a href="#onu-ods">
+			<a href="/#onu-ods">
 				<p>Alineación con ODS de la ONU</p>
 			</a>
 		</div>

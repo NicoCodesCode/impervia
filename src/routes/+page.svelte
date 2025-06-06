@@ -1,16 +1,12 @@
 <script lang="ts">
 	// Components
-	import Header from '../components/Header.svelte';
 	import FeatureElement from '../components/FeatureElement.svelte';
 	import InstructionCard from '../components/InstructionCard.svelte';
-	import Footer from '../components/Footer.svelte';
 </script>
 
 <svelte:head>
 	<title>Impervia | Protege tu casa de la humedad</title>
 </svelte:head>
-
-<Header />
 
 <!-- Hero section -->
 <section
@@ -129,5 +125,3 @@
 		<img class="h-32 sm:h-44" src="/icons/S_SDG_Icons-01-13.jpg" alt="ONU SDG 13 Icon" />
 	</div>
 </section>
-
-<Footer />
