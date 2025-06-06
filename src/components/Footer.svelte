@@ -5,15 +5,15 @@
 		<h3 class="mb-2 text-sm font-semibold sm:text-lg">IMPERVIA</h3>
 		<p>Protección experta</p>
 	</div>
-	<div class="text-center text-sm">
-		<h3 class="mb-2 text-center text-sm font-semibold sm:text-lg">CONTACTO</h3>
+	<div class="flex flex-col gap-4 text-center text-sm">
+		<h3 class="text-center text-sm font-semibold sm:text-lg">CONTACTO</h3>
 		<div class="flex items-center justify-center gap-2">
-			<img class="h-8" src="/icons/mail.png" alt="Email icon" />
+			<img class="h-6 invert" src="/icons/mail.png" alt="Email icon" />
 			<p>impervia6@gmail.com</p>
 		</div>
 		<a href="https://www.instagram.com/_impervia_/">
 			<div class="flex items-center justify-center gap-2">
-				<img class="h-8" src="/icons/instagram.png" alt="Instagram icon" />
+				<img class="h-5 invert" src="/icons/instagram.png" alt="Instagram icon" />
 				<p>@_impervia_</p>
 			</div>
 		</a>
