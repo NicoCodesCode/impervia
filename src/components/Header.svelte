@@ -11,7 +11,7 @@
 
 <!-- Phone navbar -->
 <nav
-	class="text-md bg-impervia-blue fixed {top} flex w-full flex-col items-center gap-4 pb-8 font-semibold text-white transition-all duration-300 sm:hidden"
+	class="text-md bg-impervia-blue fixed {top} flex w-full flex-col items-center gap-4 pb-8 font-semibold text-white transition-all duration-300 md:hidden"
 >
 	<a href="/#impervia-description">
 		<ul>¿Qué es Impervia?</ul>
@@ -32,7 +32,7 @@
 	</a>
 
 	<!-- Desktop navbar -->
-	<nav class="text-md hidden flex-wrap justify-center gap-4 text-center font-semibold sm:flex">
+	<nav class="text-md hidden flex-wrap justify-center gap-4 text-center font-semibold md:flex">
 		<a href="/#impervia-description">
 			<ul>¿Qué es Impervia?</ul>
 		</a>
@@ -45,7 +45,7 @@
 	</nav>
 
 	<!-- Hamburger button -->
-	<button onclick={showNavbar} class="hover:cursor-pointer sm:hidden">
+	<button onclick={showNavbar} class="hover:cursor-pointer md:hidden">
 		<img class="h-7 invert" src="/icons/hamburger.png" alt="Navbar menu icon" />
 	</button>
 </header>
