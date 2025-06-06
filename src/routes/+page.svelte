@@ -14,7 +14,7 @@
 
 <!-- Hero section -->
 <section
-	class="bg-impervia-darker-blue flex min-h-[calc(100vh-4rem)] flex-wrap justify-evenly px-10 pt-16 text-center sm:items-center sm:px-16 md:text-left lg:px-32 lg:pt-0"
+	class="bg-impervia-darker-blue flex min-h-[calc(100vh-4rem)] flex-wrap justify-evenly px-10 pt-16 sm:items-center sm:px-16 lg:px-32 lg:pt-0"
 >
 	<div class="font-poppins h-min max-w-sm text-white sm:max-w-xl">
 		<h1 class="mb-4 text-3xl/snug font-extrabold sm:text-4xl/tight md:text-5xl/tight">
@@ -28,7 +28,7 @@
 
 <!-- Humidity threats section -->
 <section
-	class="bg-impervia-dark-blue flex min-h-[calc(100vh-4rem)] flex-wrap-reverse items-center justify-evenly px-10 py-16 text-center sm:px-16 md:text-left lg:px-32"
+	class="bg-impervia-dark-blue flex min-h-[calc(100vh-4rem)] flex-wrap-reverse items-center justify-evenly px-10 py-16 sm:px-16 lg:px-32"
 	id="humidity-threats"
 >
 	<img
@@ -54,7 +54,7 @@
 
 <!-- Impervia description section -->
 <section
-	class="bg-impervia-darker-blue flex min-h-[calc(100vh-4rem)] flex-wrap justify-evenly px-10 py-16 text-center sm:items-center sm:px-16 md:text-left lg:px-32"
+	class="bg-impervia-darker-blue flex min-h-[calc(100vh-4rem)] flex-wrap justify-evenly px-10 py-16 sm:items-center sm:px-16 lg:px-32"
 	id="impervia-description"
 >
 	<div class="font-poppins h-min max-w-sm text-white sm:max-w-xl">
@@ -73,7 +73,7 @@
 
 <!-- Features section -->
 <section
-	class="bg-impervia-dark-blue flex h-min flex-wrap items-center justify-evenly gap-8 px-10 py-16 text-center sm:px-16 md:text-left lg:px-32"
+	class="bg-impervia-dark-blue flex h-min flex-wrap items-center justify-evenly gap-8 px-10 py-16 sm:px-16 lg:px-32"
 >
 	<FeatureElement src="/icons/shield.png" alt="Shield" text="Protección Duradera" />
 	<FeatureElement src="/icons/favorites.png" alt="Badge" text="Calidad Garantizada" />
@@ -83,7 +83,7 @@
 
 <!-- Instructions section -->
 <section
-	class="bg-impervia-darker-blue flex h-min flex-wrap justify-evenly gap-12 px-10 py-16 text-center text-white sm:items-center sm:px-16 md:text-left lg:px-32"
+	class="bg-impervia-darker-blue flex h-min flex-wrap justify-evenly gap-12 px-10 py-16 text-white sm:items-center sm:px-16 lg:px-32"
 	id="instructions"
 >
 	<h2 class="mb-4 text-3xl/snug font-extrabold sm:text-4xl/tight md:text-5xl/tight">
@@ -107,7 +107,7 @@
 
 <!-- ONU SDG section -->
 <section
-	class="bg-impervia-dark-blue flex min-h-[calc(100vh-4rem)] flex-wrap justify-evenly px-10 py-16 text-center sm:items-center sm:px-16 md:text-left lg:px-32"
+	class="bg-impervia-dark-blue flex min-h-[calc(100vh-4rem)] flex-wrap justify-evenly px-10 py-16 sm:items-center sm:px-16 lg:px-32"
 	id="onu-ods"
 >
 	<div class="font-poppins h-min max-w-sm text-white sm:max-w-xl">
