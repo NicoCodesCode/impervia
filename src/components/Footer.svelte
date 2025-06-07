@@ -40,6 +40,9 @@
 			<a href="/calculator">
 				<p>Calculadora de cubetas</p>
 			</a>
+			<a href="/about">
+				<p>Sobre la empresa</p>
+			</a>
 		</div>
 	</div>
 	<div>
