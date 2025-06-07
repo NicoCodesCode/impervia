@@ -13,13 +13,13 @@
 		</h2>
 		<p>
 			Ingresa la cantidad de metros cuadrados que deseas impermeabilizar para conocer cuántas
-			cubetas Impervia necesitarás en total
+			cubetas Impervia necesitarás
 		</p>
 	</div>
 	<div
 		class="font-poppins bg-impervia-darker-blue h-min max-w-sm rounded-lg p-12 text-white shadow-lg/40 sm:max-w-lg"
 	>
-		<div class="mb-4 flex">
+		<div class="mb-4 flex items-center">
 			<label class="block text-lg font-semibold sm:text-xl" for="squared-meters">
 				Metros cuadrados:
 			</label>
@@ -27,7 +27,6 @@
 				class="ml-4 max-w-20 rounded-lg bg-white pl-2 text-black"
 				bind:value={squaredMeters}
 				id="squared-meters"
-				placeholder="Ingrese los metros cuadrados"
 				type="number"
 			/>
 		</div>
