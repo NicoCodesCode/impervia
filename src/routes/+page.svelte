@@ -73,7 +73,7 @@
 >
 	<FeatureElement src="/icons/shield.png" alt="Shield" text="Protección Duradera" />
 	<FeatureElement src="/icons/favorites.png" alt="Badge" text="Calidad Garantizada" />
-	<FeatureElement src="/icons/dollar.png" alt="Money" text="Costo Asequible" />
+	<FeatureElement src="/icons/dollar.png" alt="Money" text="Costo Accesible" />
 	<FeatureElement src="/icons/earth.png" alt="Earth" text="Mejora Ecológica" />
 </section>
 
