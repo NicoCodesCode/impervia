@@ -109,7 +109,7 @@
 	<h2 class="mb-16 text-3xl/snug font-extrabold text-white sm:text-4xl/tight md:text-5xl/tight">
 		Testimonio
 	</h2>
-	<div class="flex flex-wrap items-center justify-center gap-8">
+	<div class="mb-8 flex flex-wrap items-center justify-center gap-8">
 		<img
 			class="h-48 rounded-xl shadow-lg/40 sm:h-60"
 			src="/images/testimonial-1.jpeg"
@@ -123,8 +123,8 @@
 					<img class="inline h-6 invert sm:h-8" src="/images/open-quote.png" alt="Open quote" />
 				</span>
 				Desde que aplicamos Impervia en el techo de nuestra casa, hemos notado una gran diferencia. Ya
-				no hay filtraciones durante las lluvias, y la temperatura interior se mantiene mucho más estable.
-				Es fácil de aplicar y da muchísima tranquilidad.
+				no hay goteras cuando llueve, y la temperatura de adentro se siente mucho más agradable. Es fácil
+				de aplicar y da muchísima tranquilidad.
 				<span class="m-4">
 					<img class="inline h-6 invert sm:h-8" src="/images/close-quote.png" alt="Close quote" />
 				</span>
