@@ -34,6 +34,9 @@
 			<a href="/#instructions">
 				<p>Instrucciones de uso</p>
 			</a>
+			<a href="/#testimonials">
+				<p>Testimonio</p>
+			</a>
 			<a href="/#onu-ods">
 				<p>Alineación con ODS de la ONU</p>
 			</a>

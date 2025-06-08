@@ -101,11 +101,37 @@
 	</div>
 </section>
 
-<!-- TODO: Testimonials section  -->
-<!-- <section
-	class="bg-impervia-dark-blue flex min-h-[calc(100vh-4rem)] flex-wrap justify-evenly px-10 py-16 sm:items-center sm:px-16 lg:px-32"
+<!-- Testimonials section  -->
+<section
+	class="bg-impervia-dark-blue flex min-h-[calc(100vh-4rem)] flex-col items-center justify-evenly px-10 py-16 sm:px-16 lg:px-32"
 	id="testimonial"
-></section> -->
+>
+	<h2 class="mb-16 text-3xl/snug font-extrabold text-white sm:text-4xl/tight md:text-5xl/tight">
+		Testimonio
+	</h2>
+	<div class="flex flex-wrap items-center justify-center gap-8">
+		<img
+			class="h-48 rounded-xl shadow-lg/40 sm:h-60"
+			src="/images/testimonial-1.jpeg"
+			alt="Testimonial 1"
+		/>
+		<div
+			class="font-poppins bg-impervia-darker-blue h-min max-w-sm rounded-xl px-10 py-6 text-white shadow-lg/40 sm:max-w-lg"
+		>
+			<p class="sm:text-lg">
+				<span class="m-4">
+					<img class="inline h-6 invert sm:h-8" src="/images/open-quote.png" alt="Open quote" />
+				</span>
+				Desde que aplicamos Impervia en el techo de nuestra casa, hemos notado una gran diferencia. Ya
+				no hay filtraciones durante las lluvias, y la temperatura interior se mantiene mucho más estable.
+				Es fácil de aplicar y da muchísima tranquilidad.
+				<span class="m-4">
+					<img class="inline h-6 invert sm:h-8" src="/images/close-quote.png" alt="Close quote" />
+				</span>
+			</p>
+		</div>
+	</div>
+</section>
 
 <!-- ONU SDG section -->
 <section
