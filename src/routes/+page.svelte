@@ -50,7 +50,7 @@
 
 <!-- Impervia description section -->
 <section
-	class="bg-impervia-darker-blue flex min-h-[calc(100vh-4rem)] flex-wrap justify-evenly px-10 py-16 sm:items-center sm:px-16 lg:px-32"
+	class="bg-impervia-third-blue flex min-h-[calc(100vh-4rem)] flex-wrap justify-evenly px-10 py-16 sm:items-center sm:px-16 lg:px-32"
 	id="impervia-description"
 >
 	<div class="font-poppins h-min max-w-sm text-white sm:max-w-xl">
@@ -101,9 +101,15 @@
 	</div>
 </section>
 
+<!-- TODO: Testimonials section  -->
+<!-- <section
+	class="bg-impervia-dark-blue flex min-h-[calc(100vh-4rem)] flex-wrap justify-evenly px-10 py-16 sm:items-center sm:px-16 lg:px-32"
+	id="testimonial"
+></section> -->
+
 <!-- ONU SDG section -->
 <section
-	class="bg-impervia-dark-blue flex min-h-[calc(100vh-4rem)] flex-wrap justify-evenly px-10 py-16 sm:items-center sm:px-16 lg:px-32"
+	class="bg-impervia-third-blue flex min-h-[calc(100vh-4rem)] flex-wrap justify-evenly px-10 py-16 sm:items-center sm:px-16 lg:px-32"
 	id="onu-ods"
 >
 	<div class="font-poppins h-min max-w-sm text-white sm:max-w-xl">
