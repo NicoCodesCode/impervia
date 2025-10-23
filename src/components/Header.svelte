@@ -55,7 +55,7 @@
 		</a>
 	</nav>
 
-	<!-- Hamburger button -->
+	<!-- Hamburger button *only shows on small screens* -->
 	<button onclick={toggleNavbar} class="hover:cursor-pointer active:scale-90 lg:hidden">
 		<img class="h-7 invert" src="/icons/hamburger.png" alt="Navbar menu icon" />
 	</button>
