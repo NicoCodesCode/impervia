@@ -2,11 +2,11 @@
 @import 'tailwindcss';
 
 @theme {
-	--color-impervia-blue: #51a2be;
-	--color-impervia-dark-blue: #2c576a;
-	--color-impervia-darker-blue: #16323e;
-	--color-impervia-third-blue: #3c4f5c;
-	--color-impervia-yellow: #fec559;
+	--color-impervia-blue: #4e8bc6;
+	--color-impervia-dark-blue: #069f95;
+	--color-impervia-darker-blue: #082a45;
+	--color-impervia-third-blue: #589960;
+	--color-impervia-yellow: #f2da53;
 
 	--font-poppins: 'Poppins', sans-serif;
 }

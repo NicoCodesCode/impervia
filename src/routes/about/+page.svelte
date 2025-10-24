@@ -2,7 +2,7 @@
 	class="bg-impervia-dark-blue relative -z-20 flex min-h-[calc(100vh-4rem)] flex-wrap items-center justify-center gap-8 px-10 py-24 sm:px-16 lg:px-32"
 >
 	<img
-		class="absolute top-1/2 left-1/2 -z-10 h-60 -translate-x-1/2 -translate-y-1/3 opacity-20 sm:h-80"
+		class="absolute top-1/2 left-1/2 -z-10 h-60 -translate-x-1/2 -translate-y-1/3 opacity-20 sm:h-80 rounded-4xl"
 		src="impervia-logo.png"
 		alt="Impervia logo"
 	/>

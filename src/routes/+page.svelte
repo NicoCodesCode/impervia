@@ -5,7 +5,7 @@
 </script>
 
 <svelte:head>
-	<title>Impervia | Protege tu casa de la humedad</title>
+	<title>Eco-Impervia | Protege tu casa</title>
 </svelte:head>
 
 <!-- Hero section -->
@@ -13,37 +13,33 @@
 	class="bg-impervia-darker-blue flex min-h-[calc(100vh-4rem)] flex-wrap justify-evenly px-10 py-24 sm:items-center sm:px-16 lg:px-32"
 >
 	<div class="font-poppins h-min max-w-sm text-white sm:max-w-xl">
-		<h1 class="mb-4 text-3xl/snug font-extrabold sm:text-4xl/tight lg:text-5xl/tight">
-			Protege Tu <span class="text-impervia-yellow">Casa</span> De La
-			<span class="text-impervia-blue">Humedad</span>
+		<h1 class="m-4 text-3xl/snug font-extrabold sm:text-4xl/tight lg:text-5xl/tight">
+			Protege Tu <span class="text-impervia-yellow">Hogar</span> Y La
+			<span class="text-green-500">Naturaleza</span>
 		</h1>
-		<p>Impervia mantiene la humedad fuera, para que tu hogar permanezca seco, limpio y fuerte.</p>
+		<p class="m-4">Eco-Impervia es un impermeabilizante aislante hecho a base de lirio acuático, que protege tu hogar mientras ayuda a restaurar nuestros cuerpos de agua.</p>
 	</div>
-	<img class="h-72 sm:h-80" src="impervia-logo.png" alt="Impervia logo" />
+	<img class="h-72 rounded-[7rem] shadow-lg/40" src="impervia-logo.png" alt="Impervia logo" />
 </section>
 
-<!-- Humidity threats section -->
+<!-- Lily threats section -->
 <section
 	class="bg-impervia-dark-blue flex min-h-[calc(100vh-4rem)] flex-wrap-reverse items-center justify-evenly px-10 py-16 sm:px-16 lg:px-32"
-	id="humidity-threats"
+	id="lily-threats"
 >
 	<img
-		class="h-40 rounded-xl shadow-lg/40 sm:h-64 lg:h-72"
-		src="/images/rain-432770_640.jpg"
+		class="h-40 rounded-xl shadow-lg/40 sm:h-60 lg:h-64"
+		src="/images/lirio.jpg"
 		alt="Rain on roof"
 	/>
 	<div class="font-poppins h-min max-w-sm text-white sm:max-w-xl">
-		<h2 class="mb-4 text-3xl/snug font-extrabold sm:text-4xl/tight md:text-5xl/tight">
-			¿Por Qué La
-			<span class="text-impervia-blue">Humedad</span>
-			Es
-			<span class="text-impervia-yellow">Dañina</span>
-			?
+		<h2 class="m-4 text-3xl/snug font-extrabold sm:text-4xl/tight md:text-5xl/tight">
+			¿Cómo Afecta El  
+			<span class="text-impervia-yellow">Lirio</span>
+			A Los Ríos?
 		</h2>
-		<p>
-			La humedad se filtra lentamente en paredes, techos y cimientos, provocando con el tiempo la
-			aparición de moho, aumento de la temperatura, malos olores e incluso daños estructurales.
-			También crea el ambiente perfecto para alérgenos y bacterias dañinas.
+		<p class="m-4">
+			El lirio acuático puede parecer inofensivo, pero cuando se multiplica sin control bloquea la luz del sol, impide el flujo de oxígeno y ahoga los ecosistemas acuáticos. Al cubrir grandes superficies de agua, dificulta la pesca, provoca malos olores y acelera la muerte de peces. Además, su acumulación favorece al aumento de mosquitos y el estancamiento del agua, afectando a comunidades cercanas.
 		</p>
 	</div>
 </section>
@@ -55,16 +51,13 @@
 >
 	<div class="font-poppins h-min max-w-sm text-white sm:max-w-xl">
 		<h2 class="mb-4 text-3xl/snug font-extrabold sm:text-4xl/tight md:text-5xl/tight">
-			IMPERVIA Como <span class="text-impervia-yellow">Solución</span>
+			ECO-IMPERVIA Como <span class="text-impervia-yellow">Solución</span>
 		</h2>
 		<p>
-			Impervia es un impermeabilizante aislante diseñado para proteger techos y paredes frente a la
-			humedad, filtraciones y radiación solar. Forma una barrera eficiente que reduce el impacto
-			térmico y ayuda a mantener una temperatura interior estable, mejorando el confort del hogar y
-			alargando la vida útil de las superficies tratadas.
+			Eco-Impervia es un impermeabilizante y aislante térmico hecho con esta planta invasora, la cual recuperamos de ríos y lagos. Este impermeabilizante protege tu hogar de la humedad, regula la temperatura interior y ayuda a controlar la proliferación del lirio, transformando un problema ambiental en una solución sostenible.
 		</p>
 	</div>
-	<img class="h-72 sm:h-96" src="/images/impervia-bucket.png" alt="Impervia logo" />
+	<img class="h-72 sm:h-96" src="/images/eco-impervia-bucket.png" alt="Impervia bucket" />
 </section>
 
 <!-- Features section -->

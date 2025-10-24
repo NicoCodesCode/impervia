@@ -49,6 +49,6 @@
 		</div>
 	</div>
 	<div>
-		<img class="mx-auto h-24" src="/impervia-logo.png" alt="Impervia-logo" />
+		<img class="mx-auto h-24 rounded-4xl" src="/impervia-logo.png" alt="Impervia-logo" />
 	</div>
 </footer>
